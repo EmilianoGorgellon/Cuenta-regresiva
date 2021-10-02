@@ -1,4 +1,4 @@
-const fechaElegida = new Date("September 18, 2021, 00:00:00")
+const fechaElegida = new Date("September 18, 2022, 00:00:00")
 // diferencia de tiempo
 let days = document.getElementById("days")
 let hours = document.getElementById("hours")
